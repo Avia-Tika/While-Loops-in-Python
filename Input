@@ -5,9 +5,9 @@ while True:
   food=input('Next, enter your favorite food:')
   print(food+'? Yummy!')
 
-  location=input('Finnaly, enter your favorite restaurant:')
+  location=input('Consider capitalization. Finnaly, enter your favorite restaurant:')
   print(location+'? Perfect place!')
 
-  print(name+' love to eat'+food+' in '+location+'.')
-else:
-  print("Bye Bye!")
+  print(name+' loves to eat '+food+' in '+location+'.')
+  print("The End! Made by Adrian, Alex, Yuliia")
+  break
