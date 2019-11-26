@@ -1,0 +1,10 @@
+name=input('Please, enter your name:')
+print('Hello '+name+'! Welcome to While Loops in Python!')
+
+food=input('Next, enter your favorite food:')
+print(food+'? Yummy!')
+
+location=input('Finnaly, enter your favorite restaurant:')
+print(location+'? Perfect place!')
+
+print(name+' love to eat'+food+' in '+location+'.')
